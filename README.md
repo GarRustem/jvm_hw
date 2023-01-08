@@ -1,3 +1,4 @@
+```
 public class JvmComprehension {
 
     public static void main(String[] args) {
@@ -13,6 +14,7 @@ public class JvmComprehension {
         System.out.println(o.toString() + i + ii);  // 6
     }
 }
+```
 
 # ClassLoader
 
